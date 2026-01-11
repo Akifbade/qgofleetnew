@@ -1,0 +1,8 @@
+{
+  "name": "CargoTrack POD & Fleet Manager",
+  "description": "A comprehensive logistics management system for cargo companies featuring real-time driver tracking, automated POD assignment, and signature-based delivery confirmation using Appwrite backend.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
